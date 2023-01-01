@@ -14,4 +14,6 @@ A breast cancer prediction machine learning project aims to build a model that c
 ## SVM
 ### SVM confusion matrix after Hyperparameter tuning
 ![image](https://user-images.githubusercontent.com/121415119/210185815-330c972a-9f58-424a-b603-c626fdd0a058.png)
+#### Learning curve
+![image](https://user-images.githubusercontent.com/121415119/210185903-b337a866-ebe0-4744-a090-dc2f2c6c3afd.png)
 
