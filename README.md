@@ -12,3 +12,6 @@ A breast cancer prediction machine learning project aims to build a model that c
 
 # Achieved Best fit model 
 ## SVM
+### SVM confusion matrix after Hyperparameter tuning
+![image](https://user-images.githubusercontent.com/121415119/210185815-330c972a-9f58-424a-b603-c626fdd0a058.png)
+
